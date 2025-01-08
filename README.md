@@ -8,5 +8,4 @@ I wrote all of the code for the robot and assisted in the construction and desig
 # How it works
 The Robots program operates via a system of states and substates a simplified graphic is displayed below. 
 Full details and documentation can be found in the included report and main.py file.
-<br><br>
 ![image](https://github.com/user-attachments/assets/b1b58fa8-48d1-4bd9-890c-89eef85d321e)
