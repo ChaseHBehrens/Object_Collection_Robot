@@ -5,4 +5,4 @@ I wrote all of the code for the robot and assisted in the construction and desig
 <br><br>
 ![RobotArmTest](https://github.com/user-attachments/assets/43efd287-1767-441d-a947-c512af9f5ae0)
 ![RobotDriveTest](https://github.com/user-attachments/assets/b2fff33b-cf56-416b-b540-9309fe959979)
-# FUll details in the included report
+# Full details in the included report
